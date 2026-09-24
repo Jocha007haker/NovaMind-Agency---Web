@@ -5,7 +5,7 @@ una pagina web de una agencia fictisia, esta pagina web fue creada para mi porta
 <h2>Capturas del proyecto</h2>
 
 <div align="center">
-  <img src="img/1.png" width="45%">
+  <img src="img/Screenshot 2026-09-24 at 16-56-43 NovaMind Agency — Marketing Digital & Diseño.png" width="45%">
   <img src="img/2.png" width="45%">
 </div>
 
