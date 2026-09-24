@@ -20,7 +20,7 @@ una pagina web de una agencia fictisia, esta pagina web fue creada para mi porta
 
 <div align="center">
   <img src="img/Screenshot 2026-09-24 at 16-57-28 NovaMind Agency — Marketing Digital & Diseño.png" width="45%">
-  <img src="" width="45%">
+  <img src="img/Screenshot 2026-09-24 at 16-57-43 NovaMind Agency — Marketing Digital & Diseño.png" width="45%">
 </div>
 
 <br>
